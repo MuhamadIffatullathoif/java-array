@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d658f22-f029-4e7b-b723-621d289a6005" name="Changes" comment="07. Minimum Element Challenge">
+    <list default="true" id="3d658f22-f029-4e7b-b723-621d289a6005" name="Changes" comment="08. Reverse array challenge">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/iffat/multiple_array/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/iffat/minimum_element_challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iffat/minimum_element_challenge/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.org.iffat.minimum_element_challenge.Main">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.iffat.multiple_array.Main" />
+      <module name="java-array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.iffat.multiple_array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="org.iffat.array_challenge.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.iffat.array_challenge.Main" />
       <module name="java-array" />
@@ -88,19 +101,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.iffat.using_array.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.iffat.using_array.Main" />
-      <module name="java-array" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.iffat.using_array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="org.iffat.variable_arguments.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.iffat.variable_arguments.Main" />
       <module name="java-array" />
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.org.iffat.minimum_element_challenge.Main" />
         <item itemvalue="Application.org.iffat.variable_arguments.Main" />
         <item itemvalue="Application.org.iffat.array_reference.Main" />
         <item itemvalue="Application.org.iffat.array_challenge.Main" />
-        <item itemvalue="Application.org.iffat.using_array.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +132,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707716314468</updated>
-      <workItem from="1707716315466" duration="10094000" />
+      <workItem from="1707716315466" duration="11548000" />
     </task>
     <task id="LOCAL-00001" summary="01. Arrays">
       <option name="closed" value="true" />
@@ -190,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707732775642</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="08. Reverse array challenge">
+      <option name="closed" value="true" />
+      <created>1707733694438</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707733694438</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +212,7 @@
     <MESSAGE value="05. Reference type vs Value type" />
     <MESSAGE value="06. Variable Arguments Varargs" />
     <MESSAGE value="07. Minimum Element Challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="07. Minimum Element Challenge" />
+    <MESSAGE value="08. Reverse array challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="08. Reverse array challenge" />
   </component>
 </project>
