@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d658f22-f029-4e7b-b723-621d289a6005" name="Changes" comment="05. Reference type vs Value type">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iffat/variable_arguments/Main.java" afterDir="false" />
+    <list default="true" id="3d658f22-f029-4e7b-b723-621d289a6005" name="Changes" comment="06. Variable Arguments Varargs">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/iffat/minimum_element_challenge/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,20 +48,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.org.iffat.variable_arguments.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.iffat.arrays_project.Main" />
-      <module name="java-array" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.iffat.arrays_project.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.org.iffat.minimum_element_challenge.Main">
     <configuration name="org.iffat.array_challenge.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.iffat.array_challenge.Main" />
       <module name="java-array" />
@@ -81,6 +68,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.iffat.array_reference.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.iffat.minimum_element_challenge.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.iffat.minimum_element_challenge.Main" />
+      <module name="java-array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.iffat.minimum_element_challenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.iffat.minimum_element_challenge.Main" />
         <item itemvalue="Application.org.iffat.variable_arguments.Main" />
         <item itemvalue="Application.org.iffat.array_reference.Main" />
         <item itemvalue="Application.org.iffat.array_challenge.Main" />
         <item itemvalue="Application.org.iffat.using_array.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +132,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707716314468</updated>
-      <workItem from="1707716315466" duration="8073000" />
+      <workItem from="1707716315466" duration="9422000" />
     </task>
     <task id="LOCAL-00001" summary="01. Arrays">
       <option name="closed" value="true" />
@@ -174,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707728223353</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="06. Variable Arguments Varargs">
+      <option name="closed" value="true" />
+      <created>1707731304082</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707731304082</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +194,7 @@
     <MESSAGE value="03. finding a match, using binary search and testing equality of arrays" />
     <MESSAGE value="04. Array Challenge" />
     <MESSAGE value="05. Reference type vs Value type" />
-    <option name="LAST_COMMIT_MESSAGE" value="05. Reference type vs Value type" />
+    <MESSAGE value="06. Variable Arguments Varargs" />
+    <option name="LAST_COMMIT_MESSAGE" value="06. Variable Arguments Varargs" />
   </component>
 </project>
